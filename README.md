@@ -18,23 +18,23 @@ Meu objetivo aqui foi fornecer uma solução simplificada, baseada no conceito K
 
 
 
-\* \*\*Criação de Tarefas:\*\* Adicione novas tarefas com título, descrição, data de vencimento, status e prioridade.
+\* \*\*Criação Tarefas:\*\* Adicionar novas tarefas com título, descrição, data de vencimento, status e prioridade.
 
-\* \*\*Atribuição de Membros:\*\* Atribua tarefas a membros específicos da equipe.
+\* \*\*Atribuição de Membros:\*\* Atribuir tarefas a membros específicos da equipe.
 
-\* \*\*Quadro Kanban Interativo:\*\* Visualize tarefas organizadas por status ("A Fazer", "Em Andamento", "Concluído").
+\* \*\*Quadro Kanban Interativo:\*\* Visualizar tarefas organizadas por status ("A Fazer", "Em Andamento", "Concluído").
 
-\* \*\*Movimentação de Cartões:\*\* Altere o status de uma tarefa movendo-a entre as colunas do quadro.
+\* \*\*Movimentação de Cartões:\*\* Alterar o status de uma tarefa movendo-a entre as colunas do quadro.
 
-\* \*\*Edição e Exclusão:\*\* Gerencie os detalhes das tarefas a qualquer momento.
+\* \*\*Edição e Exclusão:\*\* Gerenciar os detalhes das tarefas a qualquer momento.
 
-\* \*\*Checklists:\*\* Adicione itens verificáveis dentro de cada tarefa.
+\* \*\*Checklists:\*\* Adicionar itens verificáveis dentro de cada tarefa.
 
-\* \*\*Anexos:\*\* Vincule arquivos às tarefas (integrado com SharePoint/OneDrive).
+\* \*\*Anexos:\*\* Vincular arquivos às tarefas (integrado com SharePoint/OneDrive).
 
-\* \*\*"Minhas Tarefas":\*\* Uma visão personalizada das tarefas atribuídas ao usuário logado.
+\* \*\*"Minhas Tarefas":\*\* Ter uma visão personalizada das tarefas atribuídas ao usuário logado.
 
-\* \*\*Notificações Automatizadas:\*\* Receba alertas sobre novas atribuições de tarefas (via Power Automate).
+\* \*\*Notificações Automatizadas:\*\* Receber alertas sobre novas atribuições de tarefas (via Power Automate).
 
 
 
