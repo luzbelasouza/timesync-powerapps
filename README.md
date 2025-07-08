@@ -1,2 +1,62 @@
-# timesync-powerapps
-Um sistema de gerenciamento de tarefas internas e pessoais desenvolvido com Microsoft Power Apps (Canvas e Model-Driven), Dataverse e Power Automate, mantendo o foco na simplicidade, intuitividade e integração com o ecossistema Microsoft.
+\# TimeSync - Sistema de Gerenciamento de Tarefas com Power Apps
+
+
+
+\## Visão Geral do Projeto
+
+
+
+O \*\*TimeSync\*\* é um sistema intuitivo e eficiente para gerenciamento de tarefas internas e pessoais, desenvolvido utilizando as poderosas ferramentas low-code da Microsoft: \*\*Power Apps\*\* (com foco em Canvas Apps e Model-Driven Apps), \*\*Microsoft Dataverse\*\* como banco de dados principal e \*\*Power Automate\*\* para automação de processos.
+
+
+
+Nosso objetivo é fornecer uma solução simplificada, baseada no conceito Kanban (quadros, listas e cartões), que permite a equipes e indivíduos organizarem, atribuírem e acompanharem tarefas com facilidade. Priorizamos uma experiência de usuário (UX) clara e objetiva, aproveitando a integração nativa com o ecossistema Microsoft 365.
+
+
+
+\## Funcionalidades (MVP)
+
+
+
+\* \*\*Criação de Tarefas:\*\* Adicione novas tarefas com título, descrição, data de vencimento, status e prioridade.
+
+\* \*\*Atribuição de Membros:\*\* Atribua tarefas a membros específicos da equipe.
+
+\* \*\*Quadro Kanban Interativo:\*\* Visualize tarefas organizadas por status ("A Fazer", "Em Andamento", "Concluído").
+
+\* \*\*Movimentação de Cartões:\*\* Altere o status de uma tarefa movendo-a entre as colunas do quadro.
+
+\* \*\*Edição e Exclusão:\*\* Gerencie os detalhes das tarefas a qualquer momento.
+
+\* \*\*Checklists:\*\* Adicione itens verificáveis dentro de cada tarefa.
+
+\* \*\*Anexos:\*\* Vincule arquivos às tarefas (integrado com SharePoint/OneDrive).
+
+\* \*\*"Minhas Tarefas":\*\* Uma visão personalizada das tarefas atribuídas ao usuário logado.
+
+\* \*\*Notificações Automatizadas:\*\* Receba alertas sobre novas atribuições de tarefas (via Power Automate).
+
+
+
+\## Tecnologias Utilizadas
+
+
+
+\* \*\*Microsoft Power Apps:\*\*
+
+&nbsp;   \* \*\*Canvas Apps:\*\* Para a interface de usuário interativa e personalizável (quadro Kanban).
+
+&nbsp;   \* \*\*Model-Driven Apps:\*\* Para a gestão robusta e estruturada dos dados das tarefas no Dataverse.
+
+\* \*\*Microsoft Dataverse:\*\* Banco de dados relacional e seguro para armazenar todas as informações do TimeSync.
+
+\* \*\*Microsoft Power Automate:\*\* Para automatizar fluxos de trabalho, como notificações e lembretes.
+
+\* \*\*Power Fx:\*\* A linguagem de fórmulas para a lógica de negócios no Canvas App.
+
+\* \*\*GitHub:\*\* Para controle de versão, colaboração e hospedagem deste repositório.
+
+
+
+\## Estrutura do Repositório
+
