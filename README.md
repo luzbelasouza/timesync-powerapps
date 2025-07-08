@@ -10,7 +10,7 @@ O \*\*TimeSync\*\* é um sistema intuitivo e eficiente para gerenciamento de tar
 
 
 
-Nosso objetivo é fornecer uma solução simplificada, baseada no conceito Kanban (quadros, listas e cartões), que permite a equipes e indivíduos organizarem, atribuírem e acompanharem tarefas com facilidade. Priorizamos uma experiência de usuário (UX) clara e objetiva, aproveitando a integração nativa com o ecossistema Microsoft 365.
+Meu objetivo aqui foi fornecer uma solução simplificada, baseada no conceito Kanban (quadros, listas e cartões), que permite a equipes e indivíduos organizarem, atribuírem e acompanharem tarefas com facilidade. Priorizamos uma experiência de usuário (UX) clara e objetiva, aproveitando a integração nativa com o ecossistema Microsoft 365.
 
 
 
